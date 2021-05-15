@@ -1,0 +1,24 @@
+{
+  "name": "mern_specialization_class",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn git and node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite", 
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineethk96/MERN_Specialization_Course.git"
+  },
+  "author": "Vineeth Kirandumkara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vineethk96/MERN_Specialization_Course/issues"
+  },
+  "homepage": "https://github.com/vineethk96/MERN_Specialization_Course#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
